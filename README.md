@@ -1,7 +1,7 @@
 # SImonSaysPiBadCode
 awfully written code
 
-#How to wire:
+# How to wire:
   pin 39 - ground for score (green LEDs)
   
   pins 37, 35, 40, 31, 29 - GPIO for score LEDs in that order of turning on
