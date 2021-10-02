@@ -12,4 +12,4 @@ awfully written code
   
   pin 38 - GPIO for fail LED
   
-  
+  pins 7, 11, 13, 15, 12, 16, 22 - left to right of the pins on the keypad (Right way up)
