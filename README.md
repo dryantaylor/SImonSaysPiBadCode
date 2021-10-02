@@ -1,0 +1,2 @@
+# SImonSaysPiBadCode
+awfully written code
